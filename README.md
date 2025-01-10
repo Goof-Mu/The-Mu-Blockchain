@@ -1,2 +1,2 @@
 # The-Mu-Blockchain
-The Goof-Emu blockchain 
+The Goof-Emu
